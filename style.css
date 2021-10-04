@@ -1,4 +1,6 @@
 /* The <ul> tag defines an unordered (bulleted) list */
+.heading4 {font-style: oblique;}
+.heading {color: red; text-align: center;}
 ul {
     /* Remove list bullets */
     list-style-type: none;
